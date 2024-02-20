@@ -11,6 +11,13 @@
  *
  */
 
+ /* CUSTOM STYLE */
+ .btn-contact-custom {
+	background-color: #130f40;
+	color: #ffffff;
+	letter-spacing: 1px;
+ }
+
 /* #Primary
 ================================================== */
 
@@ -368,7 +375,7 @@ a:hover {
 	cursor: pointer;
 }
 .logo-wrap img{
-	height:20px;
+	height:45px;
 	width:auto;
 	display:block;
 	cursor: pointer;
@@ -1054,7 +1061,7 @@ body.nav-active .nav__list-item:nth-child(10) {
 	position: absolute;
 	right: 10px;
 	top: 10px;
-	content: '\f1e0';
+	content: '\f1ab';
 	font-family:'FontAwesome';
 	font-weight: normal;
 }
