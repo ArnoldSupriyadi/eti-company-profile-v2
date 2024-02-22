@@ -309,7 +309,7 @@ mark{
 ================================================== */
 
 * {
-	cursor: none;
+	cursor: default;
 }
 .cursor {
 	--size: 6px;
@@ -323,7 +323,7 @@ mark{
 }
 .cursor.cursor-shadow {
 	background-color: transparent;
-	border: 2px solid #fff;
+	border: 2px solid #ffffff00;
 	--size: 30px;
 	transition: top .2s, left .2s,
               width .2s, height .2s,
@@ -331,7 +331,7 @@ mark{
 	transition-timing-function: ease-out;
 }
 .cursor.cursor-dot {
-	background: #fff;
+	background: transparent;
 	transition: width .2s, height .2s;
 }
 .cursor-shadow.active {
