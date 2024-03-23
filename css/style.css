@@ -371,15 +371,32 @@ a:hover {
 	top: 40px;
 	cursor: pointer;
 }
+
+.logo-wrap2 {
+	position: absolute;
+	display:block;
+	left:0;
+	top: 40px;
+	cursor: pointer;
+}
+
 .logo-wrap a {
 	cursor: pointer;
 }
 .logo-wrap img{
+	height:80px;
+	width:auto;
+	display:block;
+	cursor: pointer;
+}
+
+.logo-wrap2 img{
 	height:60px;
 	width:auto;
 	display:block;
 	cursor: pointer;
 }
+
 .cd-header {
 	position: absolute;
 	top: 0;
