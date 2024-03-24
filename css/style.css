@@ -22,7 +22,7 @@
 ================================================== */
 
 body{
-	font-family: 'Roboto', sans-serif;
+	font-family: 'MuseoModerno', sans-serif;
 	font-weight: 300;
 	font-size: 15px;
 	line-height: 1.7;
@@ -32,7 +32,7 @@ body{
 }
 h1, h2, h3, h4, h5, h6,
 .h1, .h2, .h3, .h4, .h5, .h6{
-	font-family: 'Poppins', sans-serif;
+	font-family: 'MuseoModerno', sans-serif;
 	font-weight: 300;
 	margin-bottom: 0;
 	line-height: 1.35;
@@ -546,7 +546,7 @@ a:hover {
 	text-align: center;
 	color: #fff;
 	overflow: hidden; 
-	font-family: 'Poppins', sans-serif;
+	font-family: 'MuseoModerno', sans-serif;
 	font-size: 8vh;
 	font-weight: 700;
 	line-height: 1.05;
@@ -722,7 +722,7 @@ body.nav-active .nav__list-item:nth-child(10) {
 .nav__list .sub-links li a{ 
 	color: rgba(255,255,255,.6);
 	overflow: hidden;
-	font-family: 'Roboto', sans-serif;
+	font-family: 'MuseoModerno', sans-serif;
 	font-weight: 400;
 	font-size: 15px;
 	line-height: 22px;
@@ -797,7 +797,7 @@ body.nav-active .nav__list-item:nth-child(10) {
 	text-align: center;
 	-webkit-writing-mode: vertical-lr;
 	writing-mode: vertical-lr;
-	font-family: 'Poppins', sans-serif;
+	font-family: 'MuseoModerno', sans-serif;
 	font-weight: 700;
 	line-height: 1;
 	color: rgba(255,255,255,.7);
@@ -815,7 +815,7 @@ body.nav-active .nav__list-item:nth-child(10) {
 	font-size: 22px;
 	margin-top: 10px;
 	margin-bottom: 10px;
-	font-family: 'Poppins', sans-serif;
+	font-family: 'MuseoModerno', sans-serif;
 	font-weight: 500;
 	line-height: 28px;
 	letter-spacing: 2px;
@@ -830,7 +830,7 @@ body.nav-active .nav__list-item:nth-child(10) {
 	padding:0;
 	margin:0;
 	color: #fff;
-	font-family: 'Roboto', sans-serif;
+	font-family: 'MuseoModerno', sans-serif;
 	font-size: 14px;
 	line-height: 28px;
 	font-weight: 500;
@@ -955,7 +955,7 @@ body.nav-active .nav__list-item:nth-child(10) {
 	letter-spacing: 1px;
 	font-style: italic;
 	font-size: 13px;
-	font-family: 'Roboto', sans-serif;
+	font-family: 'MuseoModerno', sans-serif;
 	font-weight: 400;
 	line-height: 16px;
 	color: #fff; 
@@ -979,7 +979,7 @@ body.nav-active .nav__list-item:nth-child(10) {
 	list-style:none;
 	opacity: 0;
 	font-size: 14vw;
-	font-family: 'Poppins', sans-serif;
+	font-family: 'MuseoModerno', sans-serif;
 	font-weight: 900;
 	font-style: italic;
 	line-height: 1;
@@ -1000,7 +1000,7 @@ body.nav-active .nav__list-item:nth-child(10) {
 	list-style:none;
 	opacity: 0;
 	font-size: 13px;
-	font-family: 'Poppins', sans-serif;
+	font-family: 'MuseoModerno', sans-serif;
 	font-weight: 300;
 	line-height: 1;
 	color: #fff;
@@ -1019,7 +1019,7 @@ body.nav-active .nav__list-item:nth-child(10) {
 	letter-spacing: 2px;
 	list-style:none;
 	font-size: 13px;
-	font-family: 'Poppins', sans-serif;
+	font-family: 'MuseoModerno', sans-serif;
 	font-weight: 300;
 	line-height: 1;
 	color: #fff;
@@ -1825,7 +1825,7 @@ body.nav-active .nav__list-item:nth-child(10) {
 	letter-spacing:1px;
 	box-sizing: border-box;
 	outline: none;
-	font-family: 'Roboto', sans-serif;
+	font-family: 'MuseoModerno', sans-serif;
 	color: #f9f9f9;
 	font-weight: 300;
 	font-style: italic;
@@ -1909,7 +1909,7 @@ body.nav-active .nav__list-item:nth-child(10) {
 	font-size: 100px;
 	line-height: 80px;
 	color: #c4c3ca;
-	font-family: 'Poppins', sans-serif;
+	font-family: 'MuseoModerno', sans-serif;
 	font-weight: 700;
 	text-align: center;
 	margin: 0 auto;
@@ -2303,7 +2303,7 @@ figure.vimeo a img, figure.youtube a img {
 }
 .post-comm-box h6 small{
 	text-transform: none;
-	font-family: 'Poppins', sans-serif;
+	font-family: 'MuseoModerno', sans-serif;
 	font-weight:400;
 	font-size: .7rem;
 	font-style: italic;
@@ -2799,7 +2799,7 @@ figure.vimeo a img, figure.youtube a img {
 ================================================== */
 
 .tipper { height: 1px; left: -99999px; position: absolute; pointer-events: none; top: -99999px; width: 1px;z-index:100000; }
-.tipper .tipper-content { background: transparent; font-weight: 300;letter-spacing:1px; border-radius: 3px; color: #fff; display: block; float: left; font-family: 'Poppins', sans-serif; font-size: 2.2rem; line-height: 1.7;margin: 0; padding: 10px 0; position: relative; white-space: nowrap; }
+.tipper .tipper-content { background: transparent; font-weight: 300;letter-spacing:1px; border-radius: 3px; color: #fff; display: block; float: left; font-family: 'MuseoModerno', sans-serif; font-size: 2.2rem; line-height: 1.7;margin: 0; padding: 10px 0; position: relative; white-space: nowrap; }
 .tipper .tipper-caret { display: block; height: 11px;  position: absolute; width: 100%; }
 .tipper .tipper-content span {
 	position:absolute;
@@ -2810,7 +2810,7 @@ figure.vimeo a img, figure.youtube a img {
 	font-size: 14px;  
 	font-weight: 400;
 	color: #c4c3ca;
-	font-family: 'Roboto', sans-serif;
+	font-family: 'MuseoModerno', sans-serif;
 	font-style: italic;
 }
 .tipper .tipper-content em {
