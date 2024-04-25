@@ -91,7 +91,6 @@
 
       <!-- Primary Page Layout
 		================================================== -->
-
       <div class="section full-height over-hide background-dark-2">
         <!-- <div class="case-study-name-title">eti</div> -->
         <ul class="case-study-wrapper">
@@ -134,6 +133,7 @@
             <div class="hero-number">05</div>
             <div class="case-study-title">our catalog</div>
           </li>
+          
           <!-- <li>
             <div class="img-hero-background" style="background-image: url('img/6.jpg')"></div>
             <div class="hero-number-back">06</div>
@@ -154,11 +154,26 @@
         </div>
       </div>
 
+      
       <!-- Page cursor
 	================================================== -->
-
+  
       <div class="cursor cursor-shadow"></div>
       <div class="cursor cursor-dot"></div>
+
+    </div>
+
+    <div class="running-text">
+      <div class="container-fluid">
+        <div class="news-ticker">
+          <div class="ticker-container">
+            <ul class="ticker-list">
+              <li class="ticker-item">Breaking News: Lorem ipsum dolor sit amet, consectetur adipiscing elit. | Breaking News: Lorem ipsum dolor sit amet, consectetur adipiscing elit. | Breaking News: Lorem ipsum dolor sit amet, consectetur adipiscing elit. | Breaking News: Lorem ipsum dolor sit amet, consectetur adipiscing elit. | Breaking News: Lorem ipsum dolor sit amet, consectetur adipiscing elit.</li>
+              <!-- Add more news items here -->
+            </ul>
+          </div>
+        </div>
+      </div>
     </div>
 
     <!-- JAVASCRIPT
@@ -168,6 +183,24 @@
     <script src="js/bootstrap.min.js"></script>
     <script src="js/plugins.js"></script>
     <script src="js/custom.js"></script>
+
+    <script>
+      // Optional: Add or remove news items dynamically
+const tickerList = document.querySelector('.ticker-list');
+
+// Example of adding a news item dynamically
+function addNewsItem(news) {
+  const newItem = document.createElement('li');
+  newItem.textContent = news;
+  tickerList.appendChild(newItem);
+}
+
+// Example of removing a news item dynamically
+function removeNewsItem() {
+  const firstItem = tickerList.querySelector('li');
+  tickerList.removeChild(firstItem);
+}
+    </script>
     <!-- End Document
 ================================================== -->
   </body>
