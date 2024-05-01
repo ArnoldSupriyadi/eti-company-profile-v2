@@ -39,7 +39,7 @@
 	list-style-type: none;
 	padding-left: 0;
 	display: inline-block;
-	animation: ticker 20s linear infinite; /* Adjust the speed here */
+	animation: ticker 26s linear infinite; /* Adjust the speed here */
   }
   
   .ticker-item {
@@ -3048,6 +3048,9 @@ figure.vimeo a img, figure.youtube a img {
 }
 
 @media (max-width: 575px) {
+	.news-ticker {
+		left: -1%;
+	}
 	.case-study-wrapper {
 		width: calc(100% - 80px);
 	}
