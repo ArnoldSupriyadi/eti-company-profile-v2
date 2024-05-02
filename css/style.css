@@ -28,6 +28,7 @@
 	width: 100%;
 	background-color: rgba(255, 255, 255, 0.8); /* Adjust background color and opacity */
 	z-index: 9999;
+	left: 0%;
   }
   
   .ticker-container {
