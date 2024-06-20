@@ -83,5 +83,20 @@
   "surveilance-drone-li-12": "Estimasi koordinat target",
   "surveilance-drone-li-13": "Interoperabilitas dengan KARGU, membantu pengenalan ancaman & target serta meningkatkan kesadaran situasional taktis",
   "surveilance-drone-li-14": "Kemampuan pengambilalihan misi otomatis, memungkinkan pengawasan yang tidak terputus",
-  "surveilance-drone-li-15": "Kemampuan lepas landas dari darat"
+  "surveilance-drone-li-15": "Kemampuan lepas landas dari darat",
+  "manpack-meter": "manpack-meter",
+  "manpack-meter-1": "MERTER Man-Pack Portable Electronic Attack System mengacaukan komunikasi target dari jauh dengan menggunakan teknik modern dalam pita VHF. MERTER memberikan perlindungan serbaguna, mulai dari patroli hingga jangkauan yang lebih luas. Sistem ini memfasilitasi peperangan elektronik kooperatif dan teknik deteksi dan pengacauan RF secara simultan. Kontrol melalui PC atau tablet memungkinkan pemantauan dan penyesuaian, dengan opsi daya dari baterai yang dapat diisi ulang atau input AC. MERTER, sistem serangan elektronik paket manusia modern, dirancang untuk tahan terhadap kondisi lapangan taktis. Sistem ini dilengkapi dengan infrastruktur untuk memenuhi kebutuhan komprehensif untuk peperangan elektronik kognitif generasi berikutnya. Menggunakan penerima RF pita lebar, sistem ini mendeteksi beberapa target dengan beragam fitur dan menerapkan teknik serangan elektronik reaktif dalam skenario dinamis. Translated with DeepL.com (free version)",
+  "manpack-meter-li-1": "Teknik Melihat & Jamming Berkelanjutan",
+  "manpack-meter-li-2": "Kemampuan Deteksi Sinyal, Jamming & Penipuan",
+  "manpack-meter-li-3": "Penerapan Teknik Jamming Berbeda Secara Simultan",
+  "manpack-meter-li-4": "Serangan Elektronik Cerdas Spesifik Target",
+  "manpack-meter-li-5": "Pilihan Penggunaan Antena Omnidirectional & Directional",
+  "manpack-meter-li-6": "Kemampuan Jamming Reaktif Simultan dengan Beberapa Sistem EA Tersinkronisasi",
+  "static-1": "ILTER J350, yang dirancang oleh Bogazici, hadir sebagai solusi canggih dalam bidang Sistem Deteksi dan Netralisasi Drone, yang dibuat dengan cermat untuk melindungi infrastruktur penting dan menjunjung tinggi keamanan di berbagai lingkungan. Dengan beragam komponen sistem dan fitur teknis yang canggih, ILTER J350 tidak tertandingi dalam kapasitasnya untuk mendeteksi dan dengan cepat melawan aktivitas drone yang tidak sah. Translated with DeepL.com (free version)",
+  "static-li-1": "Daya keluaran variabel hingga 800 Watt.",
+  "static-li-2": "Teknologi deteksi berbasis protokol yang mampu mengidentifikasi hingga 30 ancaman.",
+  "static-li-3": "Operasi serbaguna dalam mode otomatis atau manual.",
+  "static-li-4": "Kontrol komando terpusat dari semua sensor dan efektor.",
+  "static-li-5": "Pengaturan cepat dalam waktu kurang dari 5 menit dengan hanya satu operator.",
+  "static-li-6": "Operasi kontinu 24 jam dalam kondisi cuaca apa pun."
 }
